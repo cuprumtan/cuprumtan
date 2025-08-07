@@ -1,4 +1,6 @@
-### 🐥
+Software Developer  
+
+[cuprumtan.github.io](https://cuprumtan.github.io/)  
 
 <!--
 **cuprumtan/cuprumtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
